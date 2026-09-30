@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "Dear Uma 💙 - Happy Birthday",
+  "short_name": "Dear Uma",
+  "description": "A luxury birthday memory album and romantic digital universe crafted exclusively for Uma.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F0F7FF",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/src/assets/images/app_icon_uma_1790514576173.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/images/app_icon_uma_1790514576173.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

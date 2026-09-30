@@ -1,0 +1,6 @@
+{
+  "name": "Dear Uma 💙",
+  "description": "A luxury birthday memory album and romantic digital universe crafted exclusively for Uma (Rasmalai).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

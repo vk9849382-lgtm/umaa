@@ -1,0 +1,40 @@
+[
+  {
+    "id": "photo-hero-1",
+    "title": "Meri Pyaari Uma ❤️",
+    "url": "/src/assets/images/uma_hero_portrait_1790514519283.jpg",
+    "caption": "1 October Birthday Special - Is muskaan par meri poori zindagi kurbaan hai. Hamesha haste rehna Meri Rasmalai 🫶🏻",
+    "author": "him",
+    "date": "1 Oct 2026",
+    "tag": "Special Photos",
+    "likes": 27,
+    "comments": [
+      {
+        "id": "c-1",
+        "author": "him",
+        "text": "Duniya ki sabse pyari smile! ❤️",
+        "date": "1 Oct 2026"
+      }
+    ],
+    "createdAt": "2026-09-28T12:46:20.203Z"
+  },
+  {
+    "id": "photo-bgmi-1",
+    "title": "BGMI Random Match Spectate Meeting",
+    "url": "/src/assets/images/bgmi_memory_moment_1790514533291.jpg",
+    "caption": "Wo BGMI ka random squad match jisne hamari kismat ek kar di. Pehli baar mic on karke tumne baat ki thi.",
+    "author": "both",
+    "date": "17 Apr 2026",
+    "tag": "BGMI Moments",
+    "likes": 17,
+    "comments": [
+      {
+        "id": "c-2",
+        "author": "her",
+        "text": "“Bhai revive do jaldi!” — Wo pehli line! 😂❤️",
+        "date": "17 Apr 2026"
+      }
+    ],
+    "createdAt": "2026-09-28T12:46:20.204Z"
+  }
+]
